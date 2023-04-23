@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.latest-matches-con {
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+.date {
+  font-size: 30px;
+}
+.logo {
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.second {
+  text-align: right;
+}
+.label {
+  font-size: 22px;
+}
+.competing-team-head {
+  font-size: 40px;
+}
